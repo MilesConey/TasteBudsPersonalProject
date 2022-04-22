@@ -1,6 +1,6 @@
 {
   "global": {
-    "title": "TasteBudsPersonalProject",
+    "title":"TasteBuds",
     "browsehappy": "You are using an <strong>outdated</strong> browser. Please <a href=\"http://browsehappy.com/?locale=en\">upgrade your browser</a> to improve your experience.",
     "menu": {
       "home": "Home",
@@ -34,7 +34,7 @@
     },
     "form": {
       "username.label": "Username",
-      "username.placeholder": "Your username",
+      "username.placeholder": "Your Username",
       "currentpassword.label": "Current password",
       "currentpassword.placeholder": "Current password",
       "newpassword.label": "New password",
@@ -47,13 +47,13 @@
     "messages": {
       "info": {
         "authenticated": {
-          "prefix": "If you want to ",
-          "link": "sign in",
-          "suffix": ", you can try the default accounts:<br/>- Administrator (login=\"admin\" and password=\"admin\") <br/>- User (login=\"user\" and password=\"user\")."
+          "prefix": "Click",
+          "link": "here",
+          "suffix": "to sign in."
         },
         "register": {
           "noaccount": "You don't have an account yet?",
-          "link": "Register a new account"
+          "link": "Register a new account."
         }
       },
       "error": {
@@ -137,5 +137,5 @@
       "not.image": "File was expected to be an image but was found to be \"{{ fileType }}\""
     }
   },
-  "footer": "This is your footer"
+  "footer": ""
 }
